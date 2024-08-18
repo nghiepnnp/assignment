@@ -1,0 +1,40 @@
+# IDE configuration files
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build and output directories
+bin/
+obj/
+out/
+
+# NuGet configuration files
+*.nupkg
+*.snupkg
+*.nuget/
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Core configuration files and directories
+*.dbmdl
+*.bak
+*.log
+*.dmp
+*.pdb
+*.cache
+*.csproj.user
+*.csproj.files
+
+# Dotnet directories
+*.dotnet/
+
+# Visual Studio directories
+.vs/
+.idea/
+
+# Rider directories
+.idea/
